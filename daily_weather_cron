@@ -1,0 +1,3 @@
+#access your crontab and add job to run daily
+crontab -e
+0 8 * * * /home/project/rx_poc.sh
